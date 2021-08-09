@@ -1,0 +1,23 @@
+{
+  "name": "codebase",
+  "version": "1.0.0",
+  "description": "代码仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evil-S/CodeBase.git"
+  },
+  "author": "Jmish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evil-S/CodeBase/issues"
+  },
+  "homepage": "https://github.com/Evil-S/CodeBase#readme",
+  "dependencies": {
+    "typescript": "^4.3.5",
+    "vue": "^3.1.2"
+  }
+}
